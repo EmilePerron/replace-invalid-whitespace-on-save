@@ -1,18 +1,17 @@
 {
   "name": "replace-invalid-whitespace-on-save",
   "main": "./lib/replace-invalid-whitespace-on-save",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A simple Atom package that removes invalid whitespaces upon save",
   "keywords": [
-      "whitespace",
-      "invalid",
-      "save"
+    "whitespace",
+    "invalid",
+    "save"
   ],
   "repository": "https://github.com/EmilePerron/replace-invalid-whitespace-on-save",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
